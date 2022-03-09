@@ -1,7 +1,7 @@
 {
   "name": "6-namudarbai",
   "version": "1.0.0",
-  "description": "Demo Vlog",
+  "description": "Error404Page",
   "main": "index.js",
   "scripts": {
     "dev":"dead-server --port=3000 --host=localhost",
